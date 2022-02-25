@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Ethan Prieur
-# Created on: February 24th
+# Created on: February 24th 2022
 # This is a programt that does simple math
 
 
