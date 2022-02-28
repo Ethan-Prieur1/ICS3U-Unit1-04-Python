@@ -8,14 +8,13 @@
 def main():
     # this function does the simple math
 
-    print(9 + 2)
-    print("7-3={}".format(7 - 3))
-    print("4/2={}".format(4 / 2))
-    print("4+4/2={}".format(4 + 4 / 2))
-    print("3+4*2={}".format(3 + 4 * 2))
-    print("5+2^3={}".format(5 + 2 ^ 3))
-    print("5+2³={}".format(5 + 2**3))
+    print("If a rectangle has the dimensions: ")
+    print("5cm x 3cm")
+    print("")
+    print("Area is {}cm².".format(3 * 5))
+    print("Perimeter is {}cm.".format(2 * (3 + 5)))
 
 
 if __name__ == "__main__":
     main()
+
