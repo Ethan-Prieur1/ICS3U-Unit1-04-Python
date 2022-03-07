@@ -2,17 +2,17 @@
 
 # Created by: Ethan Prieur
 # Created on: February 24th 2022
-# This is a programt that does simple math
+# This is a program that does simple math
 
 
 def main():
     # this function does the simple math
 
     print("If a rectangle has the dimensions: ")
-    print("5cm x 3cm")
+    print("5 mm x 3 mm")
     print("")
-    print("Area is {}cm².".format(3 * 5))
-    print("Perimeter is {}cm.".format(2 * (3 + 5)))
+    print("Area is {}mm².".format(3 * 5))
+    print("Perimeter is {} mm.".format(2 * (3 + 5)))
 
 
 if __name__ == "__main__":
